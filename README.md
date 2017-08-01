@@ -66,7 +66,7 @@ To add a seed graph to the program:
 * **Aviva Bulow** 
 * **Andrew Bonham** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/aviva-bulow/fealden-0.2/contributors) who participated in this project.
 
 ## License
 
