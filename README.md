@@ -53,7 +53,7 @@ To see all possible options enter:
 ```
 $ python fealden.py -h
 ```
-### Adding 'Seed graphs'
+## Adding 'Seed graphs'
 A seed graph is a structure used by fealden as a starting point for the shape of a sensor. 
 To add a seed graph to the program: 
   * Construct your favorite sensor structure.
