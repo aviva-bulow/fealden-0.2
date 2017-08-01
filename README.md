@@ -56,10 +56,10 @@ $ python fealden.py -h
 # Adding 'Seed graphs'
 A seed graph is a structure used by fealden as a starting point for the shape of a sensor. 
 To add a seed graph to the program: 
-  Construct your favorite sensor structure.
-     Convert it to a seed graph (see "how_to_make_a_seed_graph.pdf" for details).
-     Follow the instructions for converting the graph structure into the proper text format listed in the documentation of the functions "parse_seed_file()" in fealden.py and "make_graph()" in the file "seed.py". 
-     Append your graph to the proper file. If you're sensor binds to a double stranded region, append it to 1seedGraphs.txt, if it binds to a double stranded region append it to 0seedGraphs.txt. 
+  * Construct your favorite sensor structure.
+  * Convert it to a seed graph (see "how_to_make_a_seed_graph.pdf" for details).
+  *  Follow the instructions for converting the graph structure into the proper text format listed in the documentation of the functions "parse_seed_file()" in fealden.py and "make_graph()" in the file "seed.py". 
+  *  Append your graph to the proper file. If you're sensor binds to a double stranded region, append it to 1seedGraphs.txt, if it binds to a double stranded region append it to 0seedGraphs.txt. 
 
 ## Authors
 
